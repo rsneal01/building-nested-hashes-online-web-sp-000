@@ -29,7 +29,9 @@ def fourth_challenge
           :attitude => "confused"
         },
         :friend_2 => {
-          :name => "Nurse"
+          :name => "Nurse",
+          :age => "44",
+          :attitude => "worried"
         }
         #your hashes here!
       ]
